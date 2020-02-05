@@ -1,7 +1,5 @@
 # bootstrap-vue-extra
 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
-
 Useful components for [bootstrap-vue](https://bootstrap-vue.js.org):
 
 * Breadcrumbs
